@@ -30,5 +30,21 @@
       "Rank": "\u041D\u043E\u0432\u0438\u0447\u043E\u043A",
       "Experience": 0
     }
+  },
+  {
+    "Id": 3,
+    "Name": "tiktok",
+    "Description": "\u0437\u0430\u043F\u0440\u0435\u0448\u0435\u043D\u043A\u0430 ",
+    "Rarity": 0,
+    "Type": 1,
+    "Coordinates": {},
+    "Weight": 55,
+    "Value": 1,
+    "Power": 1,
+    "Owner": {
+      "Name": "Ivan",
+      "Rank": "\u041D\u043E\u0432\u0438\u0447\u043E\u043A",
+      "Experience": 0
+    }
   }
 ]
