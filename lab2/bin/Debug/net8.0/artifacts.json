@@ -1,0 +1,34 @@
+[
+  {
+    "Id": 1,
+    "Name": "1",
+    "Description": "1",
+    "Rarity": 3,
+    "Type": 3,
+    "Coordinates": {},
+    "Weight": 33,
+    "Value": 10000,
+    "Power": 21,
+    "Owner": {
+      "Name": "Ivan",
+      "Rank": "\u041D\u043E\u0432\u0438\u0447\u043E\u043A",
+      "Experience": 0
+    }
+  },
+  {
+    "Id": 2,
+    "Name": "\u0436\u043E\u043F\u0430",
+    "Description": "\u043A\u0440\u0443\u0442\u0430\u044F \u0448\u0443\u0442\u043A\u0430 ",
+    "Rarity": 2,
+    "Type": 0,
+    "Coordinates": {},
+    "Weight": 99,
+    "Value": 1000000,
+    "Power": 1000000,
+    "Owner": {
+      "Name": "Ivan",
+      "Rank": "\u041D\u043E\u0432\u0438\u0447\u043E\u043A",
+      "Experience": 0
+    }
+  }
+]
